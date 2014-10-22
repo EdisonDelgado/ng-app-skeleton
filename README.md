@@ -1,8 +1,15 @@
 ng-app-skeleton
 ===============
 
+Prerequisites
+------
+
+[Node]
+[Grunt]
+[Yeoman]
+
 How to
-==================
+------
 
 Create a new folder, then go to the new directory. Replace "ng-app" by your "app-name"
 ```sh
