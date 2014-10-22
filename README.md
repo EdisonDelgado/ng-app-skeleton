@@ -11,11 +11,14 @@ Prerequisites
 How to
 ------
 
-Create a new folder, then go to the new directory. Replace "ng-app" by your "app-name"
+Clone this project. Rename "ng-app-skeleton" to app name "my-app"
 ```sh
-mkdir ng-app && cd $_
 
 git clone https://github.com/EdisonDelgado/ng-app-skeleton.git
+
+mv ng-app-skeleton my-app
+
+cd my-app
 
 ```
 
